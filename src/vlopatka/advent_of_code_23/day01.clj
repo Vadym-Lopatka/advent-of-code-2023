@@ -59,7 +59,7 @@
   (part1 test-input-p1)
   (part2 test-input-p2)
 
-  (def day01-input (slurp "resources/day1-input.txt"))
+  (def day01-input (slurp "resources/day01-input.txt"))
 
   (part1 day01-input)
   (part2 day01-input)
